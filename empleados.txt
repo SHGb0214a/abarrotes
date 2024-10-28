@@ -1,0 +1,5 @@
+Nombre,Rol,Usuario,Contraseña
+Ximena,Empleada,SHGB0214a,perrufos05
+David,Empleado,davk,juluy
+Iker,Empleado,kikin,fnfjfn
+dania,danilnj,kirito2012
